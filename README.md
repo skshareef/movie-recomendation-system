@@ -15,6 +15,9 @@ In this application, we used content-based filtering we used the CSV files from 
 Used streamlits for taking input from the user and to show the recommended movies
 
 
+Kaggle link : https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+
 
 
 
