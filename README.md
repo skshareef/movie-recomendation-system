@@ -17,6 +17,8 @@ Used streamlits for taking input from the user and to show the recommended movie
 
 Kaggle link : https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
+App link : https://movie-recommender-shareef1.herokuapp.com/
+
 
 
 
